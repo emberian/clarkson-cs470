@@ -1,0 +1,6 @@
+Base.csv filter=lfs diff=lfs merge=lfs -text
+Variant[[:space:]]I.csv filter=lfs diff=lfs merge=lfs -text
+Variant[[:space:]]II.csv filter=lfs diff=lfs merge=lfs -text
+Variant[[:space:]]III.csv filter=lfs diff=lfs merge=lfs -text
+Variant[[:space:]]IV.csv filter=lfs diff=lfs merge=lfs -text
+Variant[[:space:]]V.csv filter=lfs diff=lfs merge=lfs -text
